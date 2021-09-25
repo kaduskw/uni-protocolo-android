@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UniProtocolo</string>
+    <string name="cadastrar_aluno">Cadastrar Aluno</string>
+    <string name="digite_o_nome_do_aluno">Digite o nome do Aluno</string>
+</resources>
